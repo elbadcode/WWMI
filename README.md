@@ -1,3 +1,5 @@
+major changes occurring on local branch but for now just keeping this updated to merge any sensible changes
+
 <h1 align="center">Wuthering Waves Model Importer</h1>
 
 <h4 align="center">Custom 3d models loader for Wuthering Waves</h4>
